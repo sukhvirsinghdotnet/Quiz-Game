@@ -1,0 +1,18 @@
+﻿namespace QuizGame;
+
+/// <summary>
+/// Represents a single answer option for a quiz question
+/// </summary>
+public class Answer
+{
+    public string Text { get; set; } = string.Empty;
+    public bool IsCorrect { get; set; }
+
+    public Answer() { }
+
+    public Answer(string text, bool isCorrect)
+    {
+        Text = text;
+        IsCorrect = isCorrect;
+    }
+}

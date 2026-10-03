@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "What is the capital of France?",
+    "category": "Geography",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "London",
+        "isCorrect": false
+      },
+      {
+        "text": "Paris",
+        "isCorrect": true
+      },
+      {
+        "text": "Berlin",
+        "isCorrect": false
+      },
+      {
+        "text": "Madrid",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Paris is the capital and largest city of France, known as the City of Light."
+  },
+  {
+    "id": 2,
+    "title": "Which planet is known as the Red Planet?",
+    "category": "Science",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "Venus",
+        "isCorrect": false
+      },
+      {
+        "text": "Mars",
+        "isCorrect": true
+      },
+      {
+        "text": "Jupiter",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturn",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mars is called the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+  },
+  {
+    "id": 3,
+    "title": "What is the largest ocean on Earth?",
+    "category": "Geography",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "Atlantic Ocean",
+        "isCorrect": false
+      },
+      {
+        "text": "Indian Ocean",
+        "isCorrect": false
+      },
+      {
+        "text": "Arctic Ocean",
+        "isCorrect": false
+      },
+      {
+        "text": "Pacific Ocean",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "The Pacific Ocean is the largest ocean, covering about 46% of the world's ocean surface."
+  },
+  {
+    "id": 4,
+    "title": "Who wrote 'Romeo and Juliet'?",
+    "category": "Literature",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "Jane Austen",
+        "isCorrect": false
+      },
+      {
+        "text": "William Shakespeare",
+        "isCorrect": true
+      },
+      {
+        "text": "Charles Dickens",
+        "isCorrect": false
+      },
+      {
+        "text": "Mark Twain",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "William Shakespeare wrote 'Romeo and Juliet', one of the most famous tragedies in literature."
+  },
+  {
+    "id": 5,
+    "title": "What is the chemical symbol for Gold?",
+    "category": "Science",
+    "difficulty": "Medium",
+    "options": [
+      {
+        "text": "Go",
+        "isCorrect": false
+      },
+      {
+        "text": "Gd",
+        "isCorrect": false
+      },
+      {
+        "text": "Au",
+        "isCorrect": true
+      },
+      {
+        "text": "Ag",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Au is the chemical symbol for Gold, derived from its Latin name 'aurum'."
+  },
+  {
+    "id": 6,
+    "title": "In which year did the Titanic sink?",
+    "category": "History",
+    "difficulty": "Medium",
+    "options": [
+      {
+        "text": "1910",
+        "isCorrect": false
+      },
+      {
+        "text": "1912",
+        "isCorrect": true
+      },
+      {
+        "text": "1915",
+        "isCorrect": false
+      },
+      {
+        "text": "1918",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Titanic sank on April 15, 1912, after hitting an iceberg during its maiden voyage."
+  },
+  {
+    "id": 7,
+    "title": "What does 'HTTP' stand for?",
+    "category": "Technology",
+    "difficulty": "Medium",
+    "options": [
+      {
+        "text": "Hyper Text Transfer Protocol",
+        "isCorrect": true
+      },
+      {
+        "text": "High Tech Transfer Protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Hyper Technical Text Process",
+        "isCorrect": false
+      },
+      {
+        "text": "Home Tool Transfer Protocol",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of data communication on the Web."
+  },
+  {
+    "id": 8,
+    "title": "What is the molecular formula for water?",
+    "category": "Science",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "H2O2",
+        "isCorrect": false
+      },
+      {
+        "text": "H2O",
+        "isCorrect": true
+      },
+      {
+        "text": "HO",
+        "isCorrect": false
+      },
+      {
+        "text": "H3O",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Water has the molecular formula H2O, consisting of two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "id": 9,
+    "title": "Which country is home to the Statue of Liberty?",
+    "category": "Geography",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "Canada",
+        "isCorrect": false
+      },
+      {
+        "text": "United States",
+        "isCorrect": true
+      },
+      {
+        "text": "France",
+        "isCorrect": false
+      },
+      {
+        "text": "Mexico",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The Statue of Liberty is located on Liberty Island in New York Harbor, USA."
+  },
+  {
+    "id": 10,
+    "title": "What is the square root of 144?",
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": true
+      },
+      {
+        "text": "14",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The square root of 144 is 12, because 12 × 12 = 144."
+  },
+  {
+    "id": 11,
+    "title": "What does 'LINQ' stand for in C#?",
+    "category": "Technology",
+    "difficulty": "Hard",
+    "options": [
+      {
+        "text": "Language Integrated Network Query",
+        "isCorrect": false
+      },
+      {
+        "text": "Language Integrated Query",
+        "isCorrect": true
+      },
+      {
+        "text": "Logic Integrated Query",
+        "isCorrect": false
+      },
+      {
+        "text": "Library Integrated Query",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "LINQ stands for Language Integrated Query, a powerful feature in C# for querying data."
+  },
+  {
+    "id": 12,
+    "title": "Which philosopher is known for the 'Categorical Imperative'?",
+    "category": "Philosophy",
+    "difficulty": "Hard",
+    "options": [
+      {
+        "text": "Immanuel Kant",
+        "isCorrect": true
+      },
+      {
+        "text": "Friedrich Nietzsche",
+        "isCorrect": false
+      },
+      {
+        "text": "Jean-Paul Sartre",
+        "isCorrect": false
+      },
+      {
+        "text": "Karl Marx",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Immanuel Kant developed the Categorical Imperative, a central concept in his ethical philosophy."
+  }
+]
